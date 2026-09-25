@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+export HADOOP_HOME=/opt/hadoop
+export HADOOP_CONF_DIR=$HADOOP_HOME/etc/hadoop
+export SPARK_HOME=/opt/spark
+export PYSPARK_PYTHON=/usr/bin/python3
+export PATH=$HADOOP_HOME/bin:$HADOOP_HOME/sbin:$SPARK_HOME/bin:$PATH
+export LC_ALL=C.UTF-8
+export PYTHONIOENCODING=utf-8

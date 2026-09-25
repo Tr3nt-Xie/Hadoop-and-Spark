@@ -1,0 +1,10 @@
+framework,nodes,job,repetition,seconds,exit_code,verified,output_sha256,output_uri
+spark,2,wordcount,1,17.979151,0,True,ed8f766bcf14ffbea6539f8c62a0773f545696cdeab5ff5410df8a91c1f840e7,hdfs://lab4-master:9000/lab4-results/20260925T005506Z-spark-2n/wordcount-1
+spark,2,charcount,1,17.523711,0,True,b4af1166958aaa957f04a902d8757b9620e29598d67ec4b78adf6d2db95dc7ea,hdfs://lab4-master:9000/lab4-results/20260925T005506Z-spark-2n/charcount-1
+spark,2,minmax,1,16.885258,0,True,0df725eb6b978efc10426a24b1f9a87b3b5d60a62da5b187b411b658b09f946c,hdfs://lab4-master:9000/lab4-results/20260925T005506Z-spark-2n/minmax-1
+spark,2,wordcount,2,16.882217,0,True,ed8f766bcf14ffbea6539f8c62a0773f545696cdeab5ff5410df8a91c1f840e7,hdfs://lab4-master:9000/lab4-results/20260925T005506Z-spark-2n/wordcount-2
+spark,2,charcount,2,18.32934,0,True,b4af1166958aaa957f04a902d8757b9620e29598d67ec4b78adf6d2db95dc7ea,hdfs://lab4-master:9000/lab4-results/20260925T005506Z-spark-2n/charcount-2
+spark,2,minmax,2,16.633148,0,True,0df725eb6b978efc10426a24b1f9a87b3b5d60a62da5b187b411b658b09f946c,hdfs://lab4-master:9000/lab4-results/20260925T005506Z-spark-2n/minmax-2
+spark,2,wordcount,3,16.626372,0,True,ed8f766bcf14ffbea6539f8c62a0773f545696cdeab5ff5410df8a91c1f840e7,hdfs://lab4-master:9000/lab4-results/20260925T005506Z-spark-2n/wordcount-3
+spark,2,charcount,3,18.137455,0,True,b4af1166958aaa957f04a902d8757b9620e29598d67ec4b78adf6d2db95dc7ea,hdfs://lab4-master:9000/lab4-results/20260925T005506Z-spark-2n/charcount-3
+spark,2,minmax,3,16.778075,0,True,0df725eb6b978efc10426a24b1f9a87b3b5d60a62da5b187b411b658b09f946c,hdfs://lab4-master:9000/lab4-results/20260925T005506Z-spark-2n/minmax-3

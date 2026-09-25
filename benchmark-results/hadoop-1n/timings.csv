@@ -1,0 +1,10 @@
+framework,nodes,job,repetition,seconds,exit_code,verified,output_sha256,output_uri
+hadoop,1,wordcount,1,205.7786,0,True,ed8f766bcf14ffbea6539f8c62a0773f545696cdeab5ff5410df8a91c1f840e7,hdfs://lab4-master:9000/lab4-results/20260924T231921Z-hadoop-1n/wordcount-1
+hadoop,1,charcount,1,214.760803,0,True,b4af1166958aaa957f04a902d8757b9620e29598d67ec4b78adf6d2db95dc7ea,hdfs://lab4-master:9000/lab4-results/20260924T231921Z-hadoop-1n/charcount-1
+hadoop,1,minmax,1,230.171003,0,True,0df725eb6b978efc10426a24b1f9a87b3b5d60a62da5b187b411b658b09f946c,hdfs://lab4-master:9000/lab4-results/20260924T231921Z-hadoop-1n/minmax-1
+hadoop,1,wordcount,2,201.644935,0,True,ed8f766bcf14ffbea6539f8c62a0773f545696cdeab5ff5410df8a91c1f840e7,hdfs://lab4-master:9000/lab4-results/20260924T231921Z-hadoop-1n/wordcount-2
+hadoop,1,charcount,2,212.581067,0,True,b4af1166958aaa957f04a902d8757b9620e29598d67ec4b78adf6d2db95dc7ea,hdfs://lab4-master:9000/lab4-results/20260924T231921Z-hadoop-1n/charcount-2
+hadoop,1,minmax,2,230.421854,0,True,0df725eb6b978efc10426a24b1f9a87b3b5d60a62da5b187b411b658b09f946c,hdfs://lab4-master:9000/lab4-results/20260924T231921Z-hadoop-1n/minmax-2
+hadoop,1,wordcount,3,198.923225,0,True,ed8f766bcf14ffbea6539f8c62a0773f545696cdeab5ff5410df8a91c1f840e7,hdfs://lab4-master:9000/lab4-results/20260924T231921Z-hadoop-1n/wordcount-3
+hadoop,1,charcount,3,209.206332,0,True,b4af1166958aaa957f04a902d8757b9620e29598d67ec4b78adf6d2db95dc7ea,hdfs://lab4-master:9000/lab4-results/20260924T231921Z-hadoop-1n/charcount-3
+hadoop,1,minmax,3,233.057255,0,True,0df725eb6b978efc10426a24b1f9a87b3b5d60a62da5b187b411b658b09f946c,hdfs://lab4-master:9000/lab4-results/20260924T231921Z-hadoop-1n/minmax-3

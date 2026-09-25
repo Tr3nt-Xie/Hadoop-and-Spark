@@ -1,0 +1,15 @@
+{
+  "region": "us-west-2",
+  "key_path": "~/.ssh/lab4-key.pem",
+  "known_hosts": ".local/known_hosts",
+  "master": {
+    "public_ip": "REPLACE",
+    "private_ip": "REPLACE",
+    "instance_id": "REPLACE"
+  },
+  "worker": {
+    "public_ip": "REPLACE",
+    "private_ip": "REPLACE",
+    "instance_id": "REPLACE"
+  }
+}
